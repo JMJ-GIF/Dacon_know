@@ -1,0 +1,16 @@
+2018
+numeric_cols_2018 = ['cq1', 'cq2', 'cq3', 'cq4', 'cq5', 'cq6', 'cq7', 'cq8', 'cq9', 'cq10', 
+                    'cq11', 'cq12', 'cq13', 'cq14', 'cq15', 'cq16', 'cq17', 'cq18', 'cq19', 'cq20', 
+                    'cq21', 'cq22', 'cq23', 'cq24', 'cq25', 'cq26', 'cq27', 'cq28', 'cq29', 'cq30',
+                    'cq31', 'cq32', 'cq33', 'cq34', 'cq35', 'cq36', 'cq37', 'cq38', 'cq39', 'cq40', 
+                    'cq41', 'cq42', 'cq43', 'cq44', 'cq45', 'cq46', 'cq47', 'cq49', 'cq50_1', 'cq50_2', 'cq50_3', 'cq50_4', 'cq50_5', 'cq50_6', 'cq50_7', 'cq50_8',
+                    'iq1', 'iq2', 'iq3', 'iq4', 'iq5', 'iq6',
+                    'bq3', 'bq5_1', 'bq7', 'bq8_1', 'bq8_2', 'bq8_3', 'bq9', 'bq10', 'bq11', 'bq12_1', 'bq12_5', 'bq18', 'bq19', 'bq20', 'bq25', 'bq26_1a', 
+                     'bq26_2a', 'bq26_3a', 'bq26_4a', 'bq28', 'bq34', 'bq37', ]
+numeric_pure_cols_2018 = ['bq21', 'bq36', 'bq40', 'bq41_1', 'bq41_2', 'bq41_3', ]
+categorical_cols_2018 = ['bq1', 'bq2', 'bq13', 'bq15', 'bq17', 'bq22', 'bq23', 'bq24', 'bq26_1', 'bq26_2', 'bq26_3', 'bq26_4', 'bq38', 'bq38_1', 'bq38_2', ]
+binary_cols_2018 = ['cq48', 'bq4', 'bq5', 'bq14', 'bq16', 'bq25_1', 'bq27', 'bq35', 'bq39', ]
+half_cols_2018 = ['bq6', 'bq12_2', 'bq12_3', 'bq12_4', ]
+text_cols_2018 = ['bq4_1a', 'bq4_1b', 'bq4_1c', 'bq5_2', 'bq28_1', 'bq29', 'bq30', 'bq31', 'bq32', 'bq33', 'bq37_1', ]
+
+Note:

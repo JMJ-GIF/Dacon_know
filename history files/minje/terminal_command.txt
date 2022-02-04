@@ -1,0 +1,4 @@
+python .\minje\pyfile\preprocessing_1)_clean_null_datatype.py
+python .\minje\pyfile\preprocessing_2_1)_handling_subj_question.py
+python .\minje\pyfile\preprocessing_2_2)_handling_subj_question.py
+python .\minje\pyfile\preprocessing_3)_get_knowcode_description.py
